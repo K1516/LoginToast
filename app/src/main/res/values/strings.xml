@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginToast</string>
+    <string name="user_txt">Username</string>
+    <string name="pwd_txt">Password</string>
+    <string name="button_txt">Login</string>
+
+</resources>
